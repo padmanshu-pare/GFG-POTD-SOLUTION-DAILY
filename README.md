@@ -1,34 +1,34 @@
-# 🚀 Daily GFG POTD Solutions
+# 🚀 GeeksforGeeks POTD Solutions
 
-This repository contains my daily solutions to **Problem of the Day (POTD)** from various coding platforms.
+This repository contains my daily solutions to the **Problem of the Day (POTD)** from the GeeksforGeeks (GFG) platform.
 
-## 🎯 Purpose
+## 🎯 Objective
 
-* Build strong problem-solving skills
-* Improve Data Structures & Algorithms
-* Maintain daily coding consistency
-* Prepare for placements & technical interviews
+* Strengthen Data Structures & Algorithms
+* Improve coding efficiency and optimization skills
+* Practice interview-level problems regularly
+* Prepare for internships and placement drives
 
 ## 🛠️ Tech Stack
 
 * Language: **C++**
-* Concepts: DSA, Algorithms, Problem Solving
+* Core Topics: Arrays, Strings, Linked List, Stack, Queue, Recursion, Binary Search, Sliding Window, Trees, Dynamic Programming, and more.
 
-## 📌 Structure
+## 📂 Repository Structure
 
 Each solution includes:
 
 * ✅ Problem name
-* ✅ Approach explanation 
-* ✅ Optimized C++ code
-* ✅ Time & Space Complexity
+* ✅ Optimized C++ implementation
+* ✅ Clean and readable code
+* ✅ Time & Space Complexity (whenever required)
 
-## 🔥 Goal
+## 🔥 Consistency Goal
 
-Solve at least **one problem daily** and continuously improve.
+Solve at least **one GFG POTD daily** and continuously improve problem-solving ability.
 
-Consistency > Motivation 💪
+Small daily improvements lead to big results. 💪🚀
 
 ---
 
-⭐ If you find this helpful, feel free to star the repo!
+⭐ If you find this useful, consider starring the repository!
